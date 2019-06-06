@@ -118,9 +118,9 @@ udp://@225.1.2.236:30120
 udp://@225.1.2.237:30120
 #EXTINF:-1 tvg-id="France 24-ClipTV" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/nsH5R8I.png",France 24
 udp://@225.1.2.211:30120
-#EXTINF:-1 tvg-id="HBO" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
+#EXTINF:-1 tvg-id="HBO_tv24" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
 udp://@225.1.2.232:30120
-#EXTINF:-1 tvg-id="HBO" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
+#EXTINF:-1 tvg-id="HBO_tv24" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
 udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-id="KIX" group-title="Kênh quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
 udp://@225.1.2.145:30120
