@@ -177,7 +177,7 @@ udp://@232.84.1.78:8442
 udp://@232.84.1.77:8436
 #EXTINF:137 tvg-id="France 24-ClipTV" tvg-name="France24" tvg-logo="https://imgur.com/sTK7s5R.png" group-title="Kênh quốc tế",France 24
 udp://@232.84.2.135:9606
-#EXTINF: tvg-id="HBO HD" tvg-name="HBO" tvg-logo="https://imgur.com/UmfhBQU.png" group-title="Kênh quốc tế",HBO HD
+#EXTINF: tvg-id="HBO_tv24" tvg-name="HBO" tvg-logo="https://imgur.com/UmfhBQU.png" group-title="Kênh quốc tế",HBO HD
 udp://@232.84.2.138:10648
 #EXTINF:138 tvg-id="KBS World-ClipTV" tvg-name="KBS World" tvg-logo="https://imgur.com/HXFXYdZ.png" group-title="Kênh quốc tế",KBS World
 udp://@232.84.2.136:9612
