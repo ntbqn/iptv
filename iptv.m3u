@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://static.megavie.live/media/vtv1hd.jpg",VTV1 HD
 http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
@@ -20,16 +22,22 @@ http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 
 #EXTINF:-1 group-title="Quốc Gia" tvg-id="antvhd" tvg-logo="https://static.megavie.live/media/antv.png",ANTV
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Gia" tvg-id="quochoi" tvg-logo="https://static.megavie.live/media/quochoi.jpg",Quốc Hội HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/hda1/quochoivn_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Gia" tvg-id="qpvnhd" tvg-logo="https://static.megavie.live/media/qpvnhd.jpg",QPVN HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Gia" tvg-id="vovhd" tvg-logo="https://static.megavie.live/media/vovhd.jpg",VOV HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Gia" tvg-id="nhandan" tvg-logo="https://static.megavie.live/media/nhandan.jpg",Nhân Dân HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Gia" tvg-id="ttxvnhd" tvg-logo="https://static.megavie.live/media/ttxvn.jpg",TTXVN HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/sda/ttxvn_2000.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab1hd" tvg-logo="https://static.megavie.live/media/vie-giaitri.jpg", VTVCab1 HD - Vie Giải Trí
@@ -112,68 +120,108 @@ https://vtc130121.cdn.vnns.io/VTC16_abr/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="axnhd" tvg-logo="https://static.megavie.live/media/axn.png", AXN HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/qnetlive/axnhd_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="hbohd" tvg-logo="https://static.megavie.live/media/hbohd.png", HBO HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://51.210.99.3:8080/hbo/index.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="blueantent" tvg-logo="https://static.megavie.live/media/blueantent.jpg", Blue Ant Entertainment HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/hda/blueantent_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="blueantext" tvg-logo="https://static.megavie.live/media/blueantext.jpg", Blue Ant Extreme HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/hda/blueantext_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="cinemaworldhd" tvg-logo="https://static.megavie.live/media/cinemaworldhd.jpg", Cinema World HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/qnetlive/cinemawork_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="foxmovieshd" tvg-logo="https://static.megavie.live/media/foxmovieshd.jpg", Fox Movies HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/foxlive/foxmovieshd_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="foxlifehd" tvg-logo="https://static.megavie.live/media/foxlifehd.jpg", Fox Life HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="foxfamilymovieshd" tvg-logo="https://static.megavie.live/media/foxfamilymovieshd.jpg", FOX Family Movies HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="foxhd" tvg-logo="https://static.megavie.live/media/foxhd.jpg", FOX HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/foxlive/foxhd_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="warnertvhd" tvg-logo="https://static.megavie.live/media/warnertvhd.jpg", Warner TV HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="kix" tvg-logo="https://static.megavie.live/media/kix.png", Kix HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/hda/kixhd_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="paramouthd" tvg-logo="https://static.megavie.live/media/paramouthd.jpg", Paramout HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="foxsportshd" tvg-logo="https://static.megavie.live/media/foxsportshd.jpg", Fox Sports HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="foxsports2hd" tvg-logo="https://static.megavie.live/media/foxsports2hd.jpg", Fox Sports 2 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="foxsports3hd" tvg-logo="https://static.megavie.live/media/foxsports3hd.jpg", Fox Sports 3 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="animaxhd" tvg-logo="https://static.megavie.live/media/animaxhd.jpg", Animax HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="boomerang" tvg-logo="https://static.megavie.live/media/boomerang.jpg", Boomerang
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/qnetlive/boomerang_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="babyfirst" tvg-logo="https://static.megavie.live/media/babyfirst.png", Baby First HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/qnetlive/babyfirst_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="cartoonhd" tvg-logo="https://static.megavie.live/media/cartoonhd.jpg", Cartoon Network HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="cbeebies" tvg-logo="https://static.megavie.live/media/cbeebies.jpg", Cbeebies HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="animalhd" tvg-logo="https://static.megavie.live/media/animalhd.jpg", Animal Planet HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="afnhd" tvg-logo="https://static.megavie.live/media/afnhd.png", AFN HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/world/afchd_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="davinci" tvg-logo="https://static.megavie.live/media/davinci.png", DaVinci HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/world/davincihd_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="discoveryhd" tvg-logo="https://static.megavie.live/media/discoveryhd.jpg", Discovery HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/qnetlive/discovery_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="ngchd" tvg-logo="https://static.megavie.live/media/ngchd.jpg", National Geographic HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/foxlive/natgeohd_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="outdoorhd" tvg-logo="https://static.megavie.live/media/outdoorhd.jpg", Outdoor Channel HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/world/outdoorfhd_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="fashionhd" tvg-logo="https://static.megavie.live/media/fashionhd.png", Fashion TV HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="channelvhd" tvg-logo="https://static.megavie.live/media/channelvhd.jpg", Channel V HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/foxlive/channelvhd_2000.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Địa Phương" tvg-id="vinhlong1hd" tvg-logo="https://static.megavie.live/media/vinhlong1hd.jpg",THVL1 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/hda1/vinhlong1_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-id="vinhlong2hd" tvg-logo="https://static.megavie.live/media/vinhlong2hd.jpg",THVL2 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/hda2/vinhlong2_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-id="vinhlong3hd" tvg-logo="https://static.megavie.live/media/vinhlong3hd.jpg",THVL3 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/hda2/vinhlong3_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-id="vinhlong4hd" tvg-logo="https://static.megavie.live/media/vinhlong4hd.png",THVL4 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://livecdn.fptplay.net/hda3/vinhlong4hd_2000.stream/playlist.m3u8
+
+
+
+
+
+
+
+
