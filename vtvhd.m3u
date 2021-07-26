@@ -1,0 +1,36 @@
+#EXTM3U ntbqn sưu tầm fix 2018.05.05 cache=500 deinterlace=1 aspect-ratio=16:9 url-tvg="http://gg.gg/epgvn03" tvg-link="http://gg.gg/epgvn0" refresh="3600" tvg-shift=0 m3uautoload=1
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV" tvg-chno="1" description="Thời sự tổng hợp",VTV1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 ({byntbqn1983})
+https://42.117.9.195:443/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2-VTV" tvg-logo="https://imgur.com/EUD7roS.png" group-title="VTV" tvg-chno="2" description="Thời sự tổng hợp",VTV2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 ({byntbqn1983})
+https://42.117.9.195:443/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3-VTV" tvg-logo="https://imgur.com/GkxqoUF.png" group-title="VTV" tvg-chno="3" description="Thời sự tổng hợp",VTV3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 ({byntbqn1983})
+https://42.117.9.195:443/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4-VTV" tvg-logo="https://imgur.com/m4BK6rk.png" group-title="VTV" tvg-chno="4" description="Thời sự tổng hợp",VTV4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 ({byntbqn1983})
+https://42.117.9.195:443/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5-VTV" tvg-logo="https://imgur.com/6s6sIqT.png" group-title="VTV" tvg-chno="5" description="Thời sự tổng hợp",VTV5 HD 
+https://42.117.9.195:443/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5TN" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-BEARTV.png" description="Thời sự tổng hợp",VTV5 TÂY NGUYÊN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 ({byntbqn1983})
+https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5TNB" tvg-logo="https://i.ibb.co/L97YQt3/VTV5-HD-TNB-BEARTV.png" description="Thời sự tổng hợp",VTV TÂY NAM BỘ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 ({byntbqn1983})
+https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6-VTV" tvg-logo="https://imgur.com/btozinY.png" group-title="VTV" tvg-chno="6" description="Thời sự tổng hợp",VTV6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 ({byntbqn1983})
+https://42.117.9.195:443/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv7" tvg-name="VTV7-VTV" tvg-logo="https://imgur.com/6lpObsq.png" group-title="VTV" tvg-chno="7" description="Thời sự tổng hợp",VTV7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 ({byntbqn1983})
+https://42.117.9.195:443/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv8" tvg-name="VTV8-VTV" tvg-logo="https://imgur.com/FELuRu7.png" group-title="VTV" tvg-chno="8" description="Thời sự tổng hợp",VTV8 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 ({byntbqn1983})
+https://42.117.9.195:443/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9-VTV" tvg-logo="https://imgur.com/1CdBlxR.png" group-title="VTV" tvg-chno="9" description="Thời sự tổng hợp",VTV9 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 ({byntbqn1983})
+https://42.117.9.195:443/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
