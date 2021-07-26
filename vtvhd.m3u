@@ -18,7 +18,7 @@ https://42.117.9.195:443/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5TN" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-BEARTV.png" description="Thời sự tổng hợp",VTV5 TÂY NGUYÊN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 ({byntbqn1983})
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5TNB" tvg-logo="https://i.ibb.co/L97YQt3/VTV5-HD-TNB-BEARTV.png" description="Thời sự tổng hợp",VTV TÂY NAM BỘ
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5TNB" tvg-logo="https://i.ibb.co/L97YQt3/VTV5-HD-TNB-BEARTV.png" description="Thời sự tổng hợp",VTV5 TÂY NAM BỘ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 ({byntbqn1983})
 https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 
