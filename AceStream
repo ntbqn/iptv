@@ -1,0 +1,160 @@
+#EXTM3U url-tvg="http://gg.gg/guidevn" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-link="http://gg.gg/epgvn03" refresh="3600" tvg-shift=0 m3uautoload=1 ntbqn sưu tầm fix 2019.05.05
+
+#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://i.imgur.com/byR7axw.png",CÓ THỂ KHÔNG LIVE 24/24 (Cần mở Ứng dụng AceStream trước khi xem với trình phần mềm khác) 
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4875a901a224a950421c9cb2d60456bd820d6199&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://i.imgur.com/byR7axw.png",Tiengruoi.link (Kenh 1)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4875a901a224a950421c9cb2d60456bd820d6199&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://i.imgur.com/byR7axw.png",Tiengruoi.link (Kenh 2)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4bc1bfdcc400164b7c8afd2644108dd3311e85eb
+#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://i.imgur.com/byR7axw.png",Tiengruoi.link (Kenh 3)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e9ed9d82db929115c74f295e6c9503f47987635a
+#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://i.imgur.com/byR7axw.png",Tiengruoi.link (Kenh 4)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
+#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://i.imgur.com/byR7axw.png",Tiengruoi.link (Kenh 5)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fbda842baf2646ce181a6560cfa3fe453c11991f
+
+ 
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport 1 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_1_HD.png",SKY SPORT 1 DE FHD (8.0 Mbps)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_2_HD.png",SKY SPORT 2 DE FHD (9.3 Mbps)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=46c49e9e01749e13c7fd87300924bfa5dad66d11&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport 3 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_3_HD.png",SKY SPORT 3 DE FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d884189c95e51a345da2fdcb9930ab9ec87afce9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport 5 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_5_HD.png",Sky Sport HD5 DE (4.0 Mbps)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e0332a8d0ca37ae8130832f1bd931b912ffd8453&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport 6 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_6_HD.png",Sky Sport HD6 DE (4.0 Mbps)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=bba9e3b7d4e82be31443c518e2cc255df1808503&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport 7 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_6_HD.png",Sky Sport HD7 DE (4.0 Mbps)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=22bd79ab7f3692a6290bd451b78a255cd662c494&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport F1 HD" tvg-logo="https://guidatv.sky.it/logo/478skysportf1hd_Light_Padding.png",SKY SPORT F1 DE FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=bf1c1973456c16eeb0dc6a2ce897b65c8f721706&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png",Sky Sport News HD DE (6.5 Mbps)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=22bd79ab7f3692a6290bd451b78a255cd662c494&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport Austria 1 HD" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.skysport.at.png",SKY SPORT AUSTRIA 1 FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=f1eb19e0733f7be5546a09f2aa89ff6b4d986767
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Motorvision TV" tvg-logo="https://www.clipartmax.com/png/middle/439-4397957_download-now-motorvision-tv.png",MOTORVISION TV DE
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b48132aea6925bb466139298f76532e9b93c2e07&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/640px-DAZN_1_Logo.svg.png",DAZN 1 FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9c2a1031d972cb21e51d8ff6cf95a38d98b8f87e
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="DAZN 2 HD" tvg-logo="http://hoaivnpt.duckdns.org/icon/dazn2.png",DAZN 2 FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=699ed54b2a140b7d75ba06ecbe8c578e079b8db2
+
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 3" tvg-logo="https://i.imgur.com/O18RDU9.png",Sky Main - Daddylive.live (5.6 Mbps)
+c9fd22e5f8b3b8b394d18d2f5ab521fe73954706
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 3" tvg-logo="https://i.imgur.com/O18RDU9.png",Sky Sports Action UK
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c64505d8c82c08adc9c016ed75fbc5a3d785ec80
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 3" tvg-logo="https://i.imgur.com/O18RDU9.png",Sky Sports Football
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6a73038f04c7c48b8d01f2b764c723af135873c1
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 3" tvg-logo="https://i.imgur.com/O18RDU9.png",Sky Sports Premier League
+http://127.0.0.1:6878/ace/manifest.m3u8?id=dda93a94d1ce0d823b71b1cf5beeeb00ff9c29a1
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 1" tvg-logo="https://i.imgur.com/7NkGKmP.png",BT SPORT 1 FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=659db7064e9acd6e1fa881af3af6716e47591135
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 2" tvg-logo="https://i.imgur.com/O18RDU9.png",BT SPORT 2 FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=35a3257d1878859ad73bd336bf42bb9fb57d6e84
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 3" tvg-logo="https://i.imgur.com/O18RDU9.png",BT SPORT 3 FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=f658f3ff8c6ed10a9c7c1a8d60e709661c8698db
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 3" tvg-logo="https://i.imgur.com/O18RDU9.png",BT SPORT ESPN FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=bde21377ec164025d7efdd5e9cd248602f03472e
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 3" tvg-logo="https://i.imgur.com/O18RDU9.png",NBCSN FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=02bcc17f54ee17e17fbfc45dbdd000e0d2dec034
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 3" tvg-logo="https://i.imgur.com/O18RDU9.png",Fox Sports 1 US (FS1)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fcd2aae1c22e8524a849a8a144656baf7e89d83e
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 3" tvg-logo="https://i.imgur.com/O18RDU9.png",Sky Sports F1 | Formula 1 | F1 TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ba558626d14d67a64e1bcb401a0af1e148c08387
+
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Sport TV + HD" tvg-logo="http://163.172.96.72/picon/SPORT%20TV+.png",Sport TV + HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5d6dbf22214c1a0118e9f4a8d5fe7f4ccf3f3886
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Sport TV 1 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png",SPORT TV1 FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d027b34465b1ed60b45819ac6bf12070dab3d1ee
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Sport TV 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png",SPORT TV2 FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6fae558689a5045dd02409711fa3b9bd2a8678dd
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Sport TV 3 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png",SPORT TV3 FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7abfed961d37a0aae62097ac6ac5678dbeeef8bd
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Sport TV 4 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png",SPORT TV4 FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e09a642d1b3d7ff62fe6838b84b007f5f2f90475
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="DAZN1 ES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",DAZN 1 ES FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=f8cfb9c8c8f95a8e8848fd15f1b9be1e87d33284
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="DAZN1 ES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",DAZN 2 ES FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fd547d738c9e35b790171019d7465c32f30dc753
+
+
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="DIGI Sport 1 HU" tvg-logo="https://img.sport-tv-guide.live/images/stations/a598.png",DIGI SPORT 1 HU FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=467b8af5fb3f51bb46632ddc9e5f4bc3fd6bc399
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="DIGI Sport 2 HU" tvg-logo="https://img.sport-tv-guide.live/images/stations/a599.png",DIGI SPORT 2 HU FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=96301308f598c999279e27d035cfd78d4ec46546
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="DIGI Sport 3 HU" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-hu-digi-sport-3-600.png",DIGI SPORT 3 HU FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5ad076155333ea8f362bf66300333b64a3151e26
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Digi Sport 1 HD RO" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ro-digi-sport-1-880.png",DIGI SPORT 1 RO FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c575315526a0b6a1a75bd6ebe548b62b7dc50a82
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Digi Sport 2 HD RO" tvg-logo="https://img.sport-tv-guide.live/images/stations/a881.png",DIGI SPORT 2 RO FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3b3d22e60aa72aff95a92e7667878f63ba898a50
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Digi Sport 4 RO" tvg-logo="https://img.sport-tv-guide.live/images/stations/a882.png",DIGI SPORT 4 RO SD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ede354f7f0ca2009484a0795180031d24ffeec9d
+
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="1Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sport-1-1021.png",SPORT 1 IL HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=1885e9bcdda920291dd640c32ac3b137dc7a7b95
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="2Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sport-2-1022.png",SPORT 2 IL HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d342fee30beccf53f2563f5b81e4e909e57202bf
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="3Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sport-3-1023.png",SPORT 3 IL HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9ba8774882f10a28c986644f0aaff997e3fb3ca9
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="4Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sport-4-1024.png",SPORT 4 IL HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5bfbc045dab5bf27841aeae8b1d1f1a111dd1799
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="5Stars" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1828.png",5 Stars IL HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=347750a65beffd8f53245fe784fd399abf09b124
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="5Live" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-live-1027.png",5 Live IL HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=f25827c9d236a4ec19cd49394e495928dd7813da
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-logo="https://cdn.imgbin.com/11/9/23/imgbin-setanta-sports-logo-television-brand-geography-history-armenian-U8vxbrYFGSShKhnRHaCP7Z607.jpg",SETANTA SPORT UA FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4b7b97e7e516eb1e2375c8d026c2ea5aac0d4d26
+#EXTINF:-1 group-title="Channels AceStream" tvg-logo="https://www.arax.md/assets/channels/519.png",SETANTA SPORT+ UA FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=eb44e7bd39a1c6bb73a0ab62baa8ae7965d0811f
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Setanta Sports 1" tvg-logo="https://i.ibb.co/0tjXfkT/SETANTA1-BEARTV.png",SETANTA SPORT 1 FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=1512fb17842a64e7cecbc5a987ebf44e00a0b0ad
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Setanta Sports 2" tvg-logo="https://i.ibb.co/vVwVcHw/SETANTA2-BEARTV.png",SETANTA SPORT 2 FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4dfb535a08ce667b16d09b090717d93842a384a4
+
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="МАТЧ! HD" tvg-logo="http://hoaivnpt.duckdns.org/icon/MatchTV.png",Матч! FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c7f93329f3790d54491fe2c4146b59d0514d38b8
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="МАТЧ ПРЕМЬЕР HD" tvg-logo="http://hoaivnpt.duckdns.org/icon/Match Premier.png",Матч! Премьер FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=513dabafb21429d6eff9813022b2d41f49dc5bdb
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="МАТЧ! Футбол 1 (HD)" tvg-logo="http://hoaivnpt.duckdns.org/icon/Match Futbol 1.png",Матч! Футбол 1 FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="МАТЧ! Футбол 2 (HD)" tvg-logo="http://hoaivnpt.duckdns.org/icon/Match Futbol 2.png",Матч! Футбол 2 FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cfc79383b29505fe88c4875e4997cbfce1a5196f
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="МАТЧ! Футбол 3 (HD)" tvg-logo="http://hoaivnpt.duckdns.org/icon/Match Futbol 3.png",Матч! Футбол 3 FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b120fc00572b516163aaa624f0d1ba095af58f9a
+
+
+
+#EXTINF:-1 tvg-id="EUROSPORT 4K" group-title="UHD" tvg-logo="https://4k.eurosport.ru/images/eurosport-logo.png", Eurosport 4K
+#EXTVLCOPT:http-user-agent={ntbqn1983}
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9d9d10fad753592add6ad2313c216e6fc3729cd7&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
