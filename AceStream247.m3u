@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://gg.gg/guidevn" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-link="http://gg.gg/epgvn03" refresh="3600" tvg-shift=0 m3uautoload=1 ntbqn sưu tầm fix 2019.05.05
 
-#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://i.imgur.com/byR7axw.png",CÓ THỂ KHÔNG LIVE 24/24 (Cần mở Ứng dụng AceStream trước khi xem với trình phần mềm khác VLC, tiviMate, IPTV,...) 
+#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://i.imgur.com/byR7axw.png",CÓ THỂ KHÔNG LIVE 24/24/7 ||Cần mở Ứng dụng AceStream trước khi xem với trình phần mềm khác VLC|\|tiviMate|\|IPTV|\|... 
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4875a901a224a950421c9cb2d60456bd820d6199&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://i.imgur.com/byR7axw.png",Tiengruoi.link (Kenh 1)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4875a901a224a950421c9cb2d60456bd820d6199&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
