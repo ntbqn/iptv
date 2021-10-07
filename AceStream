@@ -29,7 +29,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=e0332a8d0ca37ae8130832f1bd931b912ffd8
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport 6 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_6_HD.png",Sky Sport HD6 DE (4.0 Mbps)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=bba9e3b7d4e82be31443c518e2cc255df1808503&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
-#EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport 7 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_6_HD.png",Sky Sport HD7 DE (4.0 Mbps)
+#EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport 7 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_7_HD.png",Sky Sport HD7 DE (4.0 Mbps)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=22bd79ab7f3692a6290bd451b78a255cd662c494&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 
