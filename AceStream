@@ -1,74 +1,74 @@
 #EXTM3U url-tvg="http://gg.gg/guidevn" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-link="http://gg.gg/epgvn03" refresh="3600" tvg-shift=0 m3uautoload=1 ntbqn sưu tầm fix 2019.05.05
 
 #EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://i.imgur.com/byR7axw.png",CÓ THỂ KHÔNG LIVE 24/24/7 ||Cần mở Ứng dụng AceStream trước khi xem với trình phần mềm khác VLC|\|tiviMate|\|IPTV|\|... 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4875a901a224a950421c9cb2d60456bd820d6199&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4875a901a224a950421c9cb2d60456bd820d6199&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://i.imgur.com/byR7axw.png",Tiengruoi.link (Kenh 1)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4875a901a224a950421c9cb2d60456bd820d6199&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4875a901a224a950421c9cb2d60456bd820d6199&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://i.imgur.com/byR7axw.png",Tiengruoi.link (Kenh 2)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4bc1bfdcc400164b7c8afd2644108dd3311e85eb
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4bc1bfdcc400164b7c8afd2644108dd3311e85eb&.mkv
 #EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://i.imgur.com/byR7axw.png",Tiengruoi.link (Kenh 3)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e9ed9d82db929115c74f295e6c9503f47987635a
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e9ed9d82db929115c74f295e6c9503f47987635a&.mkv
 #EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://i.imgur.com/byR7axw.png",Tiengruoi.link (Kenh 4)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa&.mkv
 #EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://i.imgur.com/byR7axw.png",Tiengruoi.link (Kenh 5)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=fbda842baf2646ce181a6560cfa3fe453c11991f
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fbda842baf2646ce181a6560cfa3fe453c11991f&.mkv
 
  
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport 1 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_1_HD.png",SKY SPORT 1 DE FHD (8.0 Mbps)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_2_HD.png",SKY SPORT 2 DE FHD (9.3 Mbps)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=46c49e9e01749e13c7fd87300924bfa5dad66d11&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?id=46c49e9e01749e13c7fd87300924bfa5dad66d11&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport 3 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_3_HD.png",SKY SPORT 3 DE FHD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d884189c95e51a345da2fdcb9930ab9ec87afce9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d884189c95e51a345da2fdcb9930ab9ec87afce9&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport 5 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_5_HD.png",Sky Sport HD5 DE (4.0 Mbps)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e0332a8d0ca37ae8130832f1bd931b912ffd8453&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e0332a8d0ca37ae8130832f1bd931b912ffd8453&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport 6 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_6_HD.png",Sky Sport HD6 DE (4.0 Mbps)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bba9e3b7d4e82be31443c518e2cc255df1808503&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?id=bba9e3b7d4e82be31443c518e2cc255df1808503&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport 7 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_6_HD.png",Sky Sport HD7 DE (4.0 Mbps)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=22bd79ab7f3692a6290bd451b78a255cd662c494&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?id=22bd79ab7f3692a6290bd451b78a255cd662c494&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport F1 HD" tvg-logo="https://guidatv.sky.it/logo/478skysportf1hd_Light_Padding.png",SKY SPORT F1 DE FHD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bf1c1973456c16eeb0dc6a2ce897b65c8f721706&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?id=bf1c1973456c16eeb0dc6a2ce897b65c8f721706&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png",Sky Sport News HD DE (6.5 Mbps)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=22bd79ab7f3692a6290bd451b78a255cd662c494&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?id=22bd79ab7f3692a6290bd451b78a255cd662c494&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="Sky Sport Austria 1 HD" tvg-logo="https://iwf1.com/scrapekod/icons/plugin.video.skysport.at.png",SKY SPORT AUSTRIA 1 FHD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f1eb19e0733f7be5546a09f2aa89ff6b4d986767
+http://127.0.0.1:6878/ace/manifest.m3u8?id=f1eb19e0733f7be5546a09f2aa89ff6b4d986767&.mkv
 
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="Motorvision TV" tvg-logo="https://www.clipartmax.com/png/middle/439-4397957_download-now-motorvision-tv.png",MOTORVISION TV DE
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b48132aea6925bb466139298f76532e9b93c2e07&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b48132aea6925bb466139298f76532e9b93c2e07&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/640px-DAZN_1_Logo.svg.png",DAZN 1 FHD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=9c2a1031d972cb21e51d8ff6cf95a38d98b8f87e
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9c2a1031d972cb21e51d8ff6cf95a38d98b8f87e&.mkv
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="DAZN 2 HD" tvg-logo="http://hoaivnpt.duckdns.org/icon/dazn2.png",DAZN 2 FHD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=699ed54b2a140b7d75ba06ecbe8c578e079b8db2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=699ed54b2a140b7d75ba06ecbe8c578e079b8db2&.mkv
 
 
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 3" tvg-logo="https://i.imgur.com/O18RDU9.png",Sky Main - Daddylive.live (5.6 Mbps)
-c9fd22e5f8b3b8b394d18d2f5ab521fe73954706
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c9fd22e5f8b3b8b394d18d2f5ab521fe73954706&.mkv
 
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 3" tvg-logo="https://i.imgur.com/O18RDU9.png",Sky Sports Action UK
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c64505d8c82c08adc9c016ed75fbc5a3d785ec80
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c64505d8c82c08adc9c016ed75fbc5a3d785ec80&.mkv
 
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 3" tvg-logo="https://i.imgur.com/O18RDU9.png",Sky Sports Football
-http://127.0.0.1:6878/ace/manifest.m3u8?id=6a73038f04c7c48b8d01f2b764c723af135873c1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6a73038f04c7c48b8d01f2b764c723af135873c1&.mkv
 
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 3" tvg-logo="https://i.imgur.com/O18RDU9.png",Sky Sports Premier League
-http://127.0.0.1:6878/ace/manifest.m3u8?id=dda93a94d1ce0d823b71b1cf5beeeb00ff9c29a1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=dda93a94d1ce0d823b71b1cf5beeeb00ff9c29a1&.mkv
 
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 1" tvg-logo="https://i.imgur.com/7NkGKmP.png",BT SPORT 1 FHD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=659db7064e9acd6e1fa881af3af6716e47591135
+http://127.0.0.1:6878/ace/manifest.m3u8?id=659db7064e9acd6e1fa881af3af6716e47591135&.mkv
 
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 2" tvg-logo="https://i.imgur.com/O18RDU9.png",BT SPORT 2 FHD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=35a3257d1878859ad73bd336bf42bb9fb57d6e84
+http://127.0.0.1:6878/ace/manifest.m3u8?id=35a3257d1878859ad73bd336bf42bb9fb57d6e84&.mkv
 
 #EXTINF:-1 group-title="Channels AceStream" tvg-id="BT Sport 3" tvg-logo="https://i.imgur.com/O18RDU9.png",BT SPORT 3 FHD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f658f3ff8c6ed10a9c7c1a8d60e709661c8698db
@@ -157,4 +157,4 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b120fc00572b516163aaa624f0d1ba095af58
 #EXTINF:-1 tvg-id="EUROSPORT 4K" group-title="UHD" tvg-logo="https://4k.eurosport.ru/images/eurosport-logo.png", Eurosport 4K
 #EXTVLCOPT:http-user-agent={ntbqn1983}
 #EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/manifest.m3u8?id=9d9d10fad753592add6ad2313c216e6fc3729cd7&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9d9d10fad753592add6ad2313c216e6fc3729cd7&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
